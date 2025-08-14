@@ -15,3 +15,7 @@ Persistent Storage — Saves your progress in localStorage so it remains even af
 HTML – For the structure and layout of the app.
 CSS – For styling, theming, and responsive design.
 JavaScript – For counter functionality, DOM manipulation, and local storage handling.
+
+## 📷 Screenshot
+![Broken But Building - Grit Counter](broken-but-building.PNG)
+
